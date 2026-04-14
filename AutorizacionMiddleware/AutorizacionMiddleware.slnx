@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Abstracciones.BW/Autorizacion.BW.csproj" Id="4ca41340-90cd-43bb-9169-37acecbc663b" />
+  <Project Path="Autorizacion.Abstracciones/Autorizacion.Abstracciones.csproj" Id="23d9f37f-0fa4-42e3-a13e-202f246df728" />
+  <Project Path="Autorizacion.DA/Autorizacion.DA.csproj" Id="b8ff75b5-86cf-4214-b89d-993242cc720b" />
+  <Project Path="Autorizacion.Middleware/Autorizacion.Middleware.csproj" Id="5a21e27f-2943-4bbf-a54f-19ffa3d83fef" />
+  <Project Path="Helpers/Helpers.csproj" />
+</Solution>
